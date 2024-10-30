@@ -1,4 +1,4 @@
-# DGM Courses
+# DGM Course
 Here you will find a task I have delveloped as being teacher assistant in DGM course.
 
 ## Denoising Diffusion Probabilistic Models
